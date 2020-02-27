@@ -1,4 +1,6 @@
-# Von Leipzig
+![](https://i.imgur.com/WcEUeRQ.png)
+
+# Von Leipzig - Chao Bear/ESPN Partner Website
 Von Leipzig Sports is a sports news website that showcases posts made by media partner ESPN with the goal of providing American sports news to European audiences in real time. The posts are made automatically using ESPN's RSS feeds.
 
 ## Getting Started
